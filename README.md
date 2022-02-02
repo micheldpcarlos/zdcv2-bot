@@ -2,7 +2,7 @@
 Simple JS bot to automate races, it checks one by one and start races automatically, skipping expired and cars that already did all runs.
 
 
-:warning: Make sure you car has fuel, othewise it will break the bot :warning:
+:warning: Make sure your car has fuel, othewise it will break the bot :warning:
 Refuel verification is not added to the bot yet (not sure if I will)
 
 
