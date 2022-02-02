@@ -14,8 +14,8 @@ Refuel verification is not added to the bot yet (not sure if I will)
 
 3) Go to the Console Tab
 
-4) Copy bot.js content, paste there and hit Enter
-[Link to bot.js raw content](https://raw.githubusercontent.com/micheldpcarlos/zdcv2-bot/main/bot.js)
+4) Copy bot.js content, paste there and hit Enter 
+- [Link to bot.js raw content](https://raw.githubusercontent.com/micheldpcarlos/zdcv2-bot/main/bot.js)
 
 5) Now you can close DevTools, the bot is already running
 
